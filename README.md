@@ -161,6 +161,7 @@ You can execute the entire live demo through the UI in under 2 minutes:
 - `POST /api/reports` - Submit report
 - `GET /api/admin/reports` - Moderation queue
 - `PATCH /api/admin/reports/:id/resolve` - Resolve report
+<img width="1917" height="971" alt="image" src="https://github.com/user-attachments/assets/08f4095a-ca87-4f2e-bfa2-1bbc06a1cfd8" />
 
 ---
 
