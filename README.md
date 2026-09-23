@@ -161,7 +161,55 @@ You can execute the entire live demo through the UI in under 2 minutes:
 - `POST /api/reports` - Submit report
 - `GET /api/admin/reports` - Moderation queue
 - `PATCH /api/admin/reports/:id/resolve` - Resolve report
+1. User Login
+
+Users can securely log in to the Community Help Hub using their email address and password.
 <img width="1917" height="971" alt="image" src="https://github.com/user-attachments/assets/08f4095a-ca87-4f2e-bfa2-1bbc06a1cfd8" />
+
+2. Create a Help Request
+
+The requester can create a new help request by providing the request title, detailed description, category, Help Circle, number of required helpers, urgency level, location, date, and time.
+<img width="1911" height="963" alt="image" src="https://github.com/user-attachments/assets/b8fa6236-9f25-44df-b687-5bf380463547" />
+
+3. Fill Help Request Details
+
+The requester enters the required information and specifies how many helpers are needed for the task.
+<img width="1911" height="975" alt="image" src="https://github.com/user-attachments/assets/989c9582-eca1-4350-9086-b6ac5de83f83" />
+
+4. Published Help Request
+
+After publishing, the request is displayed with important information such as the requester, location, required date and time, urgency, and number of available helper slots.
+<img width="1917" height="967" alt="image" src="https://github.com/user-attachments/assets/03ac709c-4a34-49aa-a14b-126ff54489db" />
+
+5. Explore Community Requests
+
+Helpers can browse available community requests and use search, category, Help Circle, urgency, and open-slot filters to find suitable opportunities.
+<img width="1917" height="975" alt="image" src="https://github.com/user-attachments/assets/f1b95388-3a63-490d-9a18-04557ed1c5ac" />
+
+6. Offer Help
+
+A helper can open a request and choose **Offer Help Now** to volunteer for the task.
+<img width="1917" height="967" alt="image" src="https://github.com/user-attachments/assets/b29c6f3c-4667-4e34-9df3-8e663d35587d" />
+
+7. Submit Help Offer
+
+The helper provides a message along with their available date and time before submitting the help offer.
+<img width="1917" height="971" alt="image" src="https://github.com/user-attachments/assets/a82b2ac7-1cd8-484b-a312-db2a301f0fc3" />
+
+8. Help Offer Submitted
+
+After submission, the requester can see that the helper has submitted an active pending offer.
+<img width="1916" height="972" alt="image" src="https://github.com/user-attachments/assets/83afb22e-5775-4415-bd8c-33227eadcfdf" />
+
+9. Requester Reviews Helper
+
+The requester can review the helper's profile, availability, skills, and message. The requester can either accept or reject the help offer.
+<img width="1917" height="977" alt="image" src="https://github.com/user-attachments/assets/b2c88c79-d0b7-444c-8cb1-c1bd92e04328" />
+
+10. Helper Accepted
+
+Once accepted, the helper becomes a confirmed participant. The system updates the helper slot count and displays the assistance status.
+<img width="1917" height="956" alt="image" src="https://github.com/user-attachments/assets/d8c3b842-5b4f-439b-8149-cad3a5f61706" />
 
 ---
 
